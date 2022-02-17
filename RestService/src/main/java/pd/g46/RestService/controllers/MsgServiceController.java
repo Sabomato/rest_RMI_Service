@@ -75,7 +75,7 @@ public class MsgServiceController {
 
     }
 
-    @PostMapping(PROFILE)
+    @PutMapping(PROFILE)
     public ResponseEntity updateName(@RequestParam(name="newName") String newName)
     {
         String token = SecurityContextHolder.getContext().getAuthentication().getPrincipal().toString();
