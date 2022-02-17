@@ -27,7 +27,7 @@ The Java RMI server simply notifies the registered clients whenever a http reque
 3. run the scripts in the folder **[MySQL](https://github.com/Sabomato/rest_RMI_Service/tree/master/MySQL)** (first "CreateDB.sql" to create the database, and then "PopulateDB.sql" to populate it).
 4. run "RestService" module to start the server.
 5. run "RMI" module to start the Java RMI client (**not required**)
-6. Make a http request([these are the possible requests]()).  
+6. Make a http request([these are the possible requests](https://github.com/Sabomato/rest_RMI_Service/blob/master/docs/HTTP%20Request%20List.pdf)).  
 These are already a couple pre-made requests
 [here](https://god.gw.postman.com/run-collection/18094519-2a4431a6-4472-422e-81cb-f770810c988c?action=collection%2Ffork&collection-url=entityId%3D18094519-2a4431a6-4472-422e-81cb-f770810c988c%26entityType%3Dcollection%26workspaceId%3D9a029073-1bcd-4de7-824e-28dd6ebff09a)
 (**requires a postman account**);
