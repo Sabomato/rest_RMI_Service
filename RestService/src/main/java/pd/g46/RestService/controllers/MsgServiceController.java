@@ -34,18 +34,7 @@ public class MsgServiceController {
     public static final String MESSAGES = "messages";
     public static final String LOGIN = "login";
     public static final String PROFILE = "profile";
-    /*
-        ▪ Autenticar-se;
-        ▪ Alterar o seu nome;
-        ▪ Obter a lista dos seus contactos;
-        ▪ Eliminar um contacto;
-        ▪ Obter a listar dos grupos a que pertence;
-        ▪ Obter a lista de mensagens que recebeu de um determinado contacto (não incluir
-        notificações de disponibilização de ficheiros);
-        ▪ Obter a lista de mensagens que recebeu de um determinado grupo (não incluir
-        notificações de disponibilização de ficheiros).
-    */
-    //Exerciccio da aula
+
 
     @PostMapping(LOGIN)
     public ResponseEntity login(@RequestParam(name="username") String username, @RequestParam(name="password") String password)
