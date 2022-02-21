@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was made in the context of the "Distributted Programming" subject, computer engineering course, in [ISEC](https://www.isec.pt/PT/Default.aspx).
+This project was made in the context of the Distributted Programming subject, computer engineering course, in [ISEC](https://www.isec.pt/PT/Default.aspx).
 
 The purpose of this project was to learn the basic standards of the **REST architecture**, **spring boot framework**, **Java RMI**, **observer-pattern** and as a bonus **MySQL database system**.
 
