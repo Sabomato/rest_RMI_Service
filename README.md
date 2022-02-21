@@ -17,7 +17,7 @@ The Java RMI server simply notifies the registered clients whenever a http reque
 ### Requirements
 
 - IDE that supports maven projects
--** MySQLServer 8.0.27**
+- **MySQLServer 8.0.27**
 - **JDK 17**
 
 ### Steps 
